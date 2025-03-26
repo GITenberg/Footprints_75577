@@ -1,5 +1,8 @@
 _repo: Footprints_75577
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75577-h/images/cover.jpg
 creator:
   author:
     agent_name: Strahan, Kay Cleaver
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57995
     wikipedia: https://en.wikipedia.org/wiki/Kay_Cleaver_Strahan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75577#Footprints
 gutenberg_issued: '2025-03-10'
 gutenberg_type: Text
 identifiers:
